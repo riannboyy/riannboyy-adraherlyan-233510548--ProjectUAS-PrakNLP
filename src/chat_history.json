@@ -1,0 +1,16 @@
+[
+  {
+    "title": "haloo",
+    "time": "19/06 23:05",
+    "messages": [
+      {
+        "role": "user",
+        "content": "haloo"
+      },
+      {
+        "role": "assistant",
+        "content": "Halo! Selamat datang! Saya Smart Study Assistant, asisten belajar cerdas untuk mahasiswa. Saya siap membantu Anda memahami materi kuliah, membuat rangkuman, dan berlatih soal. Ada yang bisa saya bantu hari ini?"
+      }
+    ]
+  }
+]
